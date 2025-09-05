@@ -2,7 +2,7 @@
 
 🌱 i'm alesha aka muggloaf! i'm just starting out :D  
 
-<h3 align="left">🌸 Connect with me:</h3>
+<p align="left">🌸 Connect with me:</p>
 
 <p align="left">
   <!-- LinkedIn -->
