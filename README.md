@@ -9,12 +9,12 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,py,flutter,html,css,js,nodejs,express,mongodb,mysql,java,figma,git,linux,arduino,redis,postman" alt="Tech Stack" width="500" />
 </div>
 
-
+<p></p>
 <p>˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</p>
-
+<p></p>
 🌸 Connect with me:
 <div style="margin: 10px 0;">
   <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">LinkedIn</a> ♡ <a href="https://instagram.com/alesha.gif" target="_blank">Instagram</a>
 </div>
-
+<p></p>
 <p>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</p>
