@@ -4,7 +4,7 @@
 
 ˚₊‧꒰ა ✧ ໒꒱ ‧₊˚
 
-🌸 i mostly use these languages and tools!! 𐔌՞. .՞𐦯
+🌸 i mostly use these languages and tools !! 𐔌՞. .՞𐦯
 <div style="margin: 10px 0;">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,flutter,html,css,js,nodejs,mongodb,mysql,linux" alt="Tech Stack" width="400" />
 </div>
