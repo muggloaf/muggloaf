@@ -2,17 +2,18 @@
 
 🌱 i'm alesha aka muggloaf! i'm just starting out :D  
 
-<p>🌸 Connect with me:</p>
-<div style="margin: 10px 0;">
-  <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://instagram.com/alesha.gif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
-  </a>
-</div>
+˚₊‧꒰ა ✧ ໒꒱ ‧₊˚
 
 <p>🌸 Languages and Tools:</p>
 <div style="margin: 10px 0;">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,express,figma,flutter,git,html,java,linux,mongodb,mysql,nodejs,py,redis,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,flutter,html,css,js,nodejs,express,mongodb,mysql,java,figma,git,linux,arduino,redis,postman" alt="Tech Stack" width="300" />
 </div>
+
+˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
+
+<p>🌸 Connect with me:</p>
+<div style="margin: 10px 0;">
+  <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">LinkedIn</a> ♡ <a href="https://instagram.com/alesha.gif" target="_blank">Instagram</a>
+</div>
+
+˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
