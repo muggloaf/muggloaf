@@ -4,14 +4,14 @@
 
 ˚₊‧꒰ა ✧ ໒꒱ ‧₊˚
 
-<p>🌸 Languages and Tools:</p>
+🌸 Languages and Tools:
 <div style="margin: 10px 0;">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,flutter,html,css,js,nodejs,express,mongodb,mysql,java,figma,git,linux,arduino,redis,postman" alt="Tech Stack" width="300" />
 </div>
 
 ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
-<p>🌸 Connect with me:</p>
+🌸 Connect with me:
 <div style="margin: 10px 0;">
   <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">LinkedIn</a> ♡ <a href="https://instagram.com/alesha.gif" target="_blank">Instagram</a>
 </div>
