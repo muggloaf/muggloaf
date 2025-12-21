@@ -19,6 +19,6 @@
 <p>˚₊‧꒰ა ❀ ໒꒱ ‧₊˚</p>
 <p></p>
 
-☁️ connect with me   .ᐟ.ᐟ   <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">linkedin</a>   ♡   <a href="https://instagram.com/alesha.gif" target="_blank">instagram</a>  ♡
+☁️ connect with me   .ᐟ.ᐟ   <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">linkedin</a>   ♡ 
 <p></p>
 <p>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</p>
