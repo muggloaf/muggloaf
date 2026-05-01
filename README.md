@@ -1,7 +1,7 @@
 ## ⋆˚꩜｡ hello !! <img height="45" src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif"></img>
 
 🌱 i'm alesha aka muggloaf !! i'm just starting out :D  
-🌸 i mostly use these languages and tools !! 𐔌՞. .՞𐦯
+<p>🌸 i mostly use these languages and tools !! 𐔌՞. .՞𐦯</p>
 <div style="margin: 10px 0;">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,flutter,html,css,js,nodejs,mongodb,mysql,linux" alt="Tech Stack" width="400" />
 </div>
