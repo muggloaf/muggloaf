@@ -11,6 +11,6 @@
 <p></p>
 
 🍡 i'm a cs sophomore at vit, pune who's currently interested in full-stack dev and ml !! ♡⸝⸝ ꩜ .ᐟ
-☁️ connect with me   .ᐟ.ᐟ   <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">linkedin</a>   ♡ 
+<p>☁️ connect with me   .ᐟ.ᐟ   <a href="https://linkedin.com/in/alesha-mulla-263827329/" target="_blank">linkedin</a>   ♡ </p>
 <p></p>
 <p>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</p>
